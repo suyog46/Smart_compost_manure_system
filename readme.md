@@ -94,7 +94,7 @@ npm install
 
 Create a .env file in /backend/env/:
 
-PORT=5000
+PORT=3000
 MONGO_URI=your_mongodb_uri
 
 Start the server:
@@ -169,6 +169,6 @@ Distributed under the MIT License. See LICENSE for more details.
 
 Developer: Suyog Lamsal
 
-Email: lms.suyog@gmail.com
+Email: lmssuyog@gmail.com
 
 Project: Smart Compost Manure System
