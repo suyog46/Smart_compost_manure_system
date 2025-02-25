@@ -84,7 +84,7 @@ Technologies: Built using cross-platform technologies for accessibility.
 
 🔄 Clone the Repository
 
-git clone https://github.com/yourusername/smart-compost-manure.git
+git clone https://github.com/suyog46/Smart_compost_manure_system
 cd smart-compost-manure
 
 🖧 Backend Setup
